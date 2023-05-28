@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SILab2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-28T16:40:53" hostname="VIKS-LAPTOP" time="0.023">
+<testsuite name="SILab2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-28T16:53:54" hostname="VIKS-LAPTOP" time="0.028">
   <properties/>
-  <testcase name="nullTest()" classname="SILab2Test" time="0.02"/>
-  <testcase name="userTest()" classname="SILab2Test" time="0.003"/>
+  <testcase name="nullTest()" classname="SILab2Test" time="0.023"/>
+  <testcase name="userTest()" classname="SILab2Test" time="0.004"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

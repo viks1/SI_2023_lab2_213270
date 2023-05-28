@@ -32,6 +32,10 @@ public class SILab2Test {
         //password with special character, expected true
         User vikss = new User("viks", "123456$$33", "vvv@vvv.com");
         Assertions.assertTrue(klasa.function(vikss, lista));
+
+        //email without @
+        User no = new User("lol", "123123123123", "nomonkey");
+        Assertions.assertFalse(klasa.function(no, lista));
     }
     @Test
     void nullTest() {
