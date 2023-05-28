@@ -22,7 +22,7 @@
 **test case 5: everything null (gray)**
 
 # Multiple Condition (5)
-![multiple](https://github.com/viks1/SI_2023_lab2_213270/assets/20116149/9c18ac2e-cfa3-48de-b72d-ff99d4b54128)
+![image](https://github.com/viks1/SI_2023_lab2_213270/assets/20116149/11d3e4fd-a809-40dd-8551-6385765141dd)
 
 **test case 1: pasw=null**
 
@@ -37,3 +37,5 @@
 **test case 6: pasw=null && email=null**
 
 **test case 7: user=null && pasw=null && email=null**
+
+**test case 8: user!=null && pasw!=null && email!=null**
