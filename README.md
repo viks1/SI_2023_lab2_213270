@@ -22,7 +22,6 @@
 **test case 5: everything null (gray)**
 
 # Multiple Condition (5)
-![5](https://github.com/viks1/SI_2023_lab2_213270/assets/20116149/2a83671a-9f38-4f8c-9ad9-6b93aff1d8b4)
 
 **test case 1: user=null (првиот услов е исполнет)**
 
