@@ -1,15 +1,15 @@
 # Viktor Atanasoski 213270
 
 # Control Flow Graph (2)
-![diagram](https://github.com/viks1/SI_2023_lab2_213270/assets/20116149/c64fd465-b2dc-45dc-a67a-0009e867f77e)
+![1](https://github.com/viks1/SI_2023_lab2_213270/assets/20116149/e78a8532-47f2-49a6-9f0d-84b0301f6d98)
 # Cyclomatic complexity (3)
-![cik](https://github.com/viks1/SI_2023_lab2_213270/assets/20116149/9e645c75-163d-4c85-861d-003b0c25d6fb)
+![2](https://github.com/viks1/SI_2023_lab2_213270/assets/20116149/77deaf54-7b8a-43f2-b8d3-47646c52c4ce)
 
 **Вкупно имаме комплексност од 11**
 
 # Every Branch (4)
-![everybranch2](https://github.com/viks1/SI_2023_lab2_213270/assets/20116149/b47f2b78-9517-4762-ac82-7c2e45b798bd)
-![everybranch1](https://github.com/viks1/SI_2023_lab2_213270/assets/20116149/eb85819b-370e-4533-a8d2-424616aa7203)
+![3](https://github.com/viks1/SI_2023_lab2_213270/assets/20116149/be172241-7116-4ef0-9879-2b44f7441bdc)
+![4](https://github.com/viks1/SI_2023_lab2_213270/assets/20116149/1d5b4004-ba50-4d3c-9d0e-25a1b9d12228)
 
 **test case 1: username/email unique, pasw>8 no special char; (red)**
 
@@ -22,7 +22,7 @@
 **test case 5: everything null (gray)**
 
 # Multiple Condition (5)
-![image](https://github.com/viks1/SI_2023_lab2_213270/assets/20116149/11d3e4fd-a809-40dd-8551-6385765141dd)
+![5](https://github.com/viks1/SI_2023_lab2_213270/assets/20116149/2a83671a-9f38-4f8c-9ad9-6b93aff1d8b4)
 
 **test case 1: pasw=null**
 
