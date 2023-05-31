@@ -24,18 +24,10 @@
 # Multiple Condition (5)
 ![5](https://github.com/viks1/SI_2023_lab2_213270/assets/20116149/2a83671a-9f38-4f8c-9ad9-6b93aff1d8b4)
 
-**test case 1: pasw=null**
+**test case 1: user=null (првиот услов е исполнет)**
 
-**test case 2: email=null**
+**test case 2: user.getPassword()=null (првиот услов не е исполнет, вториот е исполнет)**
 
-**test case 3: user=null**
+**test case 3: user.getEmail()=null (првите два услова не се исполнети, третиот е исполнет)**
 
-**test case 4: user=null && email=null**
-
-**test case 5: user=null && pasw=null**
-
-**test case 6: pasw=null && email=null**
-
-**test case 7: user=null && pasw=null && email=null**
-
-**test case 8: user!=null && pasw!=null && email!=null**
+**test case 4: user!=null && user.getPassword()=null && user.getEmail()=null** (сите три услова не се исполнуваат)
